@@ -3,22 +3,22 @@ Bilgi güvenliği ile ilgili notlar.
 
 
 ### 1. Ağ Güvenliği (Network Security) 6 alt başlığa ayrılır:
-* İçerik Güvenliği (Content Security) 
-⋅⋅* E-Posta
-⋅⋅* Web
+⋅⋅1. İçerik Güvenliği (Content Security) 
+* E-Posta
+* Web
 
-* Çevresel Savunma (Perimeter Defense) 
+⋅⋅2. Çevresel Savunma (Perimeter Defense) 
 ⋅⋅* Firewall/VPN (Güvenlik Duvarı / Sanal Özel Ağ)
 ⋅⋅* IPS (Saldırı Önleme Sistemi (Intrusion Prevention System))
 ⋅⋅* UTM (Birleştirilmiş Tehdit Yönetimi (Unified Threat Management))
 
-* NAC (Network Access Control)
-* Wireless (Kablosuz)
+⋅⋅3. NAC (Network Access Control)
+⋅⋅4. Wireless (Kablosuz)
 
-* İzleme (Monitoring) 
+⋅⋅5. İzleme (Monitoring) 
 ⋅⋅* NBA/NAD
 ⋅⋅* Adli (Forensics)
 
-* Yönetilir Servisler (Managed Services) 
+⋅⋅6. Yönetilir Servisler (Managed Services) 
 ⋅⋅* İzleme (Monitoring)
 ⋅⋅* Yönetim (Management)
