@@ -9,11 +9,9 @@
 
 #### 1.2. Çevresel Savunma (Perimeter Defense) 
 
-* ##### Firewall/VPN (Güvenlik Duvarı / Sanal Özel Ağ)
-
-* ##### IPS (Saldırı Önleme Sistemi (Intrusion Prevention System))
-
-* ##### UTM (Birleştirilmiş Tehdit Yönetimi (Unified Threat Management))
+* Firewall/VPN (Güvenlik Duvarı / Sanal Özel Ağ)
+* IPS (Saldırı Önleme Sistemi (Intrusion Prevention System))
+* UTM (Birleştirilmiş Tehdit Yönetimi (Unified Threat Management))
 
 #### 1.3. NAC (Network Access Control)
 
@@ -21,33 +19,24 @@
 
 #### 1.5. İzleme (Monitoring) 
 
-* ##### NBA/NAD
-
-* ##### Adli (Forensics)
+* NBA/NAD
+* Adli (Forensics)
 
 #### 1.6. Yönetilir Servisler (Managed Services) 
 
-* ##### İzleme (Monitoring)
-
-* ##### Yönetim (Management)
+* İzleme (Monitoring)
+* Yönetim (Management)
 
 ### 2. Uç/Son Nokta/Kullanıcı Güvenliği (Endpoint Security) 5 alt başlığa ayrılır:
 
-* ##### Uç/Son Nokta/Kullanıcı Savunması (Endpoint Defense) 
-
-* ##### Anti-MalwareAna Bilgisayar Güvenlik Duvarı (Host Firewall)
-
-* ##### Ana Bilgisayar Tabanlı Saldırı Önleme Sistemi (HIPS)
-
-* ##### Uygulamalar İçin Beyaz Listeleme (Application Whitelisting)
-
-* ##### Disk Şifreleme (Disk Encryption)
-
-* ##### Cihaz Kontrolü (Device Control)
-
-* ##### Mobil Güvenlik (Mobile Security)
-
-* ##### Uzaktan Erişim / VPN (Remote Access / VPN) 
+* Uç/Son Nokta/Kullanıcı Savunması (Endpoint Defense) 
+* Anti-MalwareAna Bilgisayar Güvenlik Duvarı (Host Firewall)
+* Ana Bilgisayar Tabanlı Saldırı Önleme Sistemi (HIPS)
+* Uygulamalar İçin Beyaz Listeleme (Application Whitelisting)
+* Disk Şifreleme (Disk Encryption)
+* Cihaz Kontrolü (Device Control)
+* Mobil Güvenlik (Mobile Security)
+* Uzaktan Erişim / VPN (Remote Access / VPN) 
 
 ### 3. Veri Güvenliği (Data Security) 4 alt başlığa ayrılır:
 
