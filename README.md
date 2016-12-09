@@ -2,26 +2,26 @@
 
 ### 1. Ağ Güvenliği (Network Security) 6 alt başlığa ayrılır:
 
-#### &nbsp;&nbsp; 1.1. İçerik Güvenliği (Content Security)
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.1. İçerik Güvenliği (Content Security)
 * E-Posta
 * Web 
 
-#### 1.2. Çevresel Savunma (Perimeter Defense) 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.2. Çevresel Savunma (Perimeter Defense) 
 
 * Firewall/VPN (Güvenlik Duvarı / Sanal Özel Ağ)
 * IPS (Saldırı Önleme Sistemi (Intrusion Prevention System))
 * UTM (Birleştirilmiş Tehdit Yönetimi (Unified Threat Management))
 
-#### 1.3. NAC (Network Access Control)
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.3. NAC (Network Access Control)
 
-#### 1.4. Wireless (Kablosuz)
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.4. Wireless (Kablosuz)
 
-#### 1.5. İzleme (Monitoring) 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.5. İzleme (Monitoring) 
 
 * NBA/NAD
 * Adli (Forensics)
 
-#### 1.6. Yönetilir Servisler (Managed Services) 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.6. Yönetilir Servisler (Managed Services) 
 
 * İzleme (Monitoring)
 * Yönetim (Management)
