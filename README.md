@@ -2,8 +2,7 @@
 
 ### 1. Ağ Güvenliği (Network Security) 6 alt başlığa ayrılır:
 
-#### &nbsp;&nbsp; 1.1. İçerik Güvenliği (Content Security) 
-  
+#### &nbsp;&nbsp; 1.1. İçerik Güvenliği (Content Security)
 * E-Posta
 * Web 
 
