@@ -4,9 +4,8 @@
 
 #### 1.1. İçerik Güvenliği (Content Security) 
 
-* ##### E-Posta
-
-* ##### Web
+  * E-Posta
+  * Web
 
 #### 1.2. Çevresel Savunma (Perimeter Defense) 
 
